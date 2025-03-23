@@ -107,3 +107,12 @@ Brazil’s biofuel success and France’s investment in Small Modular Reactors (
 
 8. Embed Just Transition Principles
 As economies shift, it’s essential to address job displacement, energy access, and affordability—especially in developing nations. Climate action must align with social equity.
+
+## Data Source:
+[The enery Institute](https://www.energyinst.org/statistical-review)
+
+## The cleaned dataset used in this project is available on Kaggle:
+
+🔗 [Global Energy Dataset (Cleaned) on Kaggle](https://www.kaggle.com/datasets/atharvarayar/global-energy-consumption)
+
+> 📈 Over 1,000 views and 150+ downloads in the last 30 days.
