@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/ba86de0a-e833-4849-adcf-57275668adfb)
 An interactive Tableau dashboard exploring global energy trends (1965–2023). It highlights the shift from fossil fuels to renewables and analyzes country-level success stories in the energy transition, showcasing how innovation, investment, and policy impact sustainable outcomes.
 
 # [🔗 View Dashboard on Tableau Public](https://public.tableau.com/views/energy_dashboard_v3/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
