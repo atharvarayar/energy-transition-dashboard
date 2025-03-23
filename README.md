@@ -1,9 +1,9 @@
-![image](https://github.com/user-attachments/assets/ba86de0a-e833-4849-adcf-57275668adfb)# energy-transition-dashboard
+![image](https://github.com/user-attachments/assets/ba86de0a-e833-4849-adcf-57275668adfb)
 An interactive Tableau dashboard exploring global energy trends (1965–2023). It highlights the shift from fossil fuels to renewables and analyzes country-level success stories in the energy transition, showcasing how innovation, investment, and policy impact sustainable outcomes.
 
 # [🔗 View Dashboard on Tableau Public](https://public.tableau.com/views/energy_dashboard_v3/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-(screenshots/dashboard_preview.png)
+![image](screenshots/dashboard_preview.png)
 
 # Project Summary
 This Tableau project analyzes global energy trends between 1965 and 2023, using interactive data visualizations to uncover key insights into the world’s transition from fossil fuels to renewables. It draws from country-level data on energy consumption, fuel mix, CO₂ emissions, and renewable adoption to explore challenges and successes in global sustainability efforts.
@@ -35,7 +35,7 @@ Geothermal and bioenergy are expanding in regions with enabling policy and inves
 
 Nuclear energy, while not renewable, is gaining attention as a low-carbon source, especially in countries like France.
 
-(screenshots/dashboard_preview2.png)
+![image](screenshots/dashboard_preview2.png)
 
 ## Part 4: CO₂ Emissions Remain High
 In 2023:
